@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "aberlaas": "0.11.1"
+  },
+  "files": ["build/"],
+  "main": "build/index.js",
+  "description": "Simplified API to my most used SAAS services",
+  "scripts": {
+    "build": "./scripts/build",
+    "build:watch": "./scripts/build-watch",
+    "ci": "./scripts/ci",
+    "husky:precommit": "./scripts/husky-precommit",
+    "lint": "./scripts/lint",
+    "lint:fix": "./scripts/lint-fix",
+    "release": "./scripts/release",
+    "test": "./scripts/test",
+    "test:watch": "./scripts/test-watch"
+  },
+  "version": "0.0.1"
+}
