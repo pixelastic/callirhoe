@@ -7,7 +7,7 @@
   ],
   "name": "callirhoe",
   "main": "build/index.js",
-  "description": "Simplified API to my most used SAAS services",
+  "description": "~ Simplified API to my most used SAAS services",
   "scripts": {
     "build": "./scripts/build",
     "build:watch": "./scripts/build-watch",
@@ -19,5 +19,9 @@
     "test": "./scripts/test",
     "test:watch": "./scripts/test-watch"
   },
-  "version": "0.0.4"
+  "version": "0.0.4",
+  "dependencies": {
+    "@sentry/node": "5.11.0",
+    "golgoth": "0.6.4"
+  }
 }

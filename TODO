@@ -1,0 +1,3 @@
+Create a callirhoe.buildStaticSecrets('./lib/secrets.js', './dist/secrets.js')
+that will read the file and write them in plain text in the dist folder
+
