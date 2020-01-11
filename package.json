@@ -5,6 +5,7 @@
   "files": [
     "build/"
   ],
+  "name": "callirhoe",
   "main": "build/index.js",
   "description": "Simplified API to my most used SAAS services",
   "scripts": {
