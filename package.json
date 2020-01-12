@@ -19,7 +19,7 @@
     "test": "./scripts/test",
     "test:watch": "./scripts/test-watch"
   },
-  "version": "0.0.5",
+  "version": "0.0.6",
   "dependencies": {
     "@sentry/node": "5.11.0",
     "airtable": "0.8.1",

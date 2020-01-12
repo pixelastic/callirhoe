@@ -1,3 +1,10 @@
+## [0.0.6](https://github.com/pixelastic/callirhoe/compare/0.0.5...0.0.6) (2020-01-12)
+
+
+### Features
+
+* **airtable:** Add Airtable helper ([7031ae9](https://github.com/pixelastic/callirhoe/commit/7031ae9f8fad56b597b39381b1fc364c39ee78db))
+
 ## [0.0.5](https://github.com/pixelastic/callirhoe/compare/0.0.4...0.0.5) (2020-01-11)
 
 
