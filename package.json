@@ -23,6 +23,7 @@
   "dependencies": {
     "@sentry/node": "5.11.0",
     "airtable": "0.8.1",
+    "firost": "0.21.0",
     "golgoth": "0.6.4"
   }
 }
