@@ -1,3 +1,10 @@
+## [0.0.7](https://github.com/pixelastic/callirhoe/compare/0.0.6...0.0.7) (2020-01-16)
+
+
+### Features
+
+* **netlify:** Add freezeFile ([2a69c08](https://github.com/pixelastic/callirhoe/commit/2a69c0844c05d33c59244d261376315bd9173b49))
+
 ## [0.0.6](https://github.com/pixelastic/callirhoe/compare/0.0.5...0.0.6) (2020-01-12)
 
 
