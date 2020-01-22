@@ -1,3 +1,10 @@
+## [0.0.8](https://github.com/pixelastic/callirhoe/compare/0.0.7...0.0.8) (2020-01-22)
+
+
+### Features
+
+* **request/response:** Add request and response helpers ([71f4d0c](https://github.com/pixelastic/callirhoe/commit/71f4d0c94315102b9cf082aac6f87baf840f703a))
+
 ## [0.0.7](https://github.com/pixelastic/callirhoe/compare/0.0.6...0.0.7) (2020-01-16)
 
 
