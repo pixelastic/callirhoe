@@ -1,3 +1,10 @@
+## [0.0.9](https://github.com/pixelastic/callirhoe/compare/0.0.8...0.0.9) (2020-01-29)
+
+
+### Features
+
+* **sentry:** Push the current NODE_ENV in messages ([6398043](https://github.com/pixelastic/callirhoe/commit/6398043c67ab1fd467045a942aae23328de480e4))
+
 ## [0.0.8](https://github.com/pixelastic/callirhoe/compare/0.0.7...0.0.8) (2020-01-22)
 
 
