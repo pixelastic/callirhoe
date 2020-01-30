@@ -1,3 +1,10 @@
+## [0.0.10](https://github.com/pixelastic/callirhoe/compare/0.0.9...0.0.10) (2020-01-30)
+
+
+### Features
+
+* **response:** Allow a setHeader method ([f17be22](https://github.com/pixelastic/callirhoe/commit/f17be2279ca7f9a67c068c9f29f324f73cacf85e))
+
 ## [0.0.9](https://github.com/pixelastic/callirhoe/compare/0.0.8...0.0.9) (2020-01-29)
 
 
