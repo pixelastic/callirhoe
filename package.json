@@ -1,16 +1,22 @@
 {
+  "dependencies": {
+    "@sentry/node": "5.11.0",
+    "airtable": "0.8.1",
+    "cookie": "0.4.0",
+    "firost": "1.2.1",
+    "golgoth": "1.1.1",
+    "sparkpost": "2.1.4"
+  },
+  "description": "~ Simplified API to my most used SAAS services",
   "devDependencies": {
-    "aberlaas": "0.11.1"
+    "aberlaas": "1.1.1"
   },
   "files": [
-    "build/"
+    "lib/*.js"
   ],
+  "main": "lib/main.js",
   "name": "callirhoe",
-  "main": "build/index.js",
-  "description": "~ Simplified API to my most used SAAS services",
   "scripts": {
-    "build": "./scripts/build",
-    "build:watch": "./scripts/build-watch",
     "ci": "./scripts/ci",
     "husky:precommit": "./scripts/husky-precommit",
     "lint": "./scripts/lint",
@@ -19,13 +25,5 @@
     "test": "./scripts/test",
     "test:watch": "./scripts/test-watch"
   },
-  "version": "0.0.10",
-  "dependencies": {
-    "@sentry/node": "5.11.0",
-    "airtable": "0.8.1",
-    "cookie": "0.4.0",
-    "firost": "0.21.0",
-    "golgoth": "0.6.4",
-    "sparkpost": "2.1.4"
-  }
+  "version": "0.0.10"
 }
