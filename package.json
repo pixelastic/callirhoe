@@ -3,7 +3,7 @@
     "@sentry/node": "5.15.0",
     "airtable": "0.8.1",
     "cookie": "0.4.0",
-    "firost": "1.4.1",
+    "firost": "1.5.0",
     "golgoth": "1.1.1",
     "sparkpost": "2.1.4"
   },
