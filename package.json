@@ -4,12 +4,12 @@
     "airtable": "0.8.1",
     "cookie": "0.4.0",
     "firost": "1.5.0",
-    "golgoth": "1.1.1",
+    "golgoth": "1.2.0",
     "sparkpost": "2.1.4"
   },
   "description": "~ Simplified API to my most used SAAS services",
   "devDependencies": {
-    "aberlaas": "1.2.4"
+    "aberlaas": "1.3.0"
   },
   "files": [
     "lib/*.js"
