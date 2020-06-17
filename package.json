@@ -9,7 +9,7 @@
   },
   "description": "~ Simplified API to my most used SAAS services",
   "devDependencies": {
-    "aberlaas": "1.4.4"
+    "aberlaas": "1.5.0"
   },
   "files": [
     "lib/*.js"
