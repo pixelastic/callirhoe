@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@sentry/node": "5.19.1",
+    "@sentry/node": "5.19.2",
     "airtable": "0.8.1",
     "cookie": "0.4.1",
     "firost": "1.11.1",
