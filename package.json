@@ -3,8 +3,8 @@
     "@sentry/node": "5.24.2",
     "airtable": "0.10.0",
     "cookie": "0.4.1",
-    "firost": "2.0.5",
-    "golgoth": "1.4.0",
+    "firost": "2.0.6",
+    "golgoth": "1.5.0",
     "sparkpost": "2.1.4"
   },
   "description": "~ Simplified API to my most used SAAS services",
