@@ -3,13 +3,13 @@
     "@sentry/node": "5.28.0",
     "airtable": "0.10.1",
     "cookie": "0.4.1",
-    "firost": "2.0.6",
+    "firost": "2.1.0",
     "golgoth": "1.5.0",
     "sparkpost": "2.1.4"
   },
   "description": "~ Simplified API to my most used SAAS services",
   "devDependencies": {
-    "aberlaas": "1.13.3"
+    "aberlaas": "1.14.0"
   },
   "files": [
     "lib/*.js"
