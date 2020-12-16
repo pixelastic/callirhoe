@@ -4,7 +4,7 @@
     "airtable": "0.10.1",
     "cookie": "0.4.1",
     "firost": "2.2.0",
-    "golgoth": "1.5.0",
+    "golgoth": "2.0.0",
     "sparkpost": "2.1.4"
   },
   "description": "~ Simplified API to my most used SAAS services",
